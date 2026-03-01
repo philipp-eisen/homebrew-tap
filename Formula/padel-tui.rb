@@ -1,7 +1,7 @@
 class PadelTui < Formula
   desc "Terminal UI for finding and booking padel courts"
   homepage "https://github.com/philipp-eisen/padel-tui"
-  version "0.1.0"
+  version "0.0.7"
   license "MIT"
 
   on_macos do
